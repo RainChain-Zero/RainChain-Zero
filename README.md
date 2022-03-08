@@ -2,7 +2,7 @@
 
 :fireworks:You can call me RainChain or Zero
 
-:book:I am currently learning software engineering
+:book:I am currently learning Software Engineering
 
 :muscle:Expert in Google,Baidu,Stack Overflow and Bug-oriented programming
 
