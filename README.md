@@ -21,7 +21,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainChain-Zero&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainChain-Zero&layout=compact&hide=dockerfile,batchfile&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainChain-Zero&layout=compact&hide=dockerfile,batchfile&langs_count=10)
 
 > 世界でひとつの君という奇跡が 
 > 
